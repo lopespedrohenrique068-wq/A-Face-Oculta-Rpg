@@ -1,15 +1,1 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Meu RPG</title>
-    <style>
-        body { background: black; color: white; text-align: center; padding: 50px; }
-        h1 { color: #3b82f6; }
-    </style>
-</head>
-<body>
-    <h1>🎲 SISTEMA RPG ONLINE 🎲</h1>
-    <p>Teste funcionando!</p>
-    <button onclick="alert('Funciona!')">Clique para testar</button>
-</body>
-</html> 
+
